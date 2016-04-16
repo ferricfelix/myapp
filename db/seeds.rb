@@ -32,12 +32,12 @@ mind = Movie.new
 mind.title = "A Beautiful Mind"
 mind.year = 2001
 mind.image_url = "mind.jpg"
-mind.plot = "A human drama inspired by events in the life of John Forbes Nash Jr., and in part based on the biography "A Beautiful Mind" by Sylvia Nasar. From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery."
+mind.plot = "A human drama inspired by events in the life of John Forbes Nash Jr., and in part based on the biography \"A Beautiful Mind\" by Sylvia Nasar. From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery."
 mind.save
 
 lincoln = Movie.new
 lincoln.title = "Lincoln"
 lincoln.image_url = "lincoln.jpg"
 lincoln.plot = "With the nation embroiled in still another year with the high death count of Civil War, President Abraham Lincoln (Daniel Day-Lewis) brings the full measure of his passion, humanity and political skill to what would become his defining legacy: to end the war and permanently abolish slavery through the 13th Amendment. Having great courage, acumen and moral fortitude, Lincoln pushes forward to compel the nation, and those in government who oppose him, to aim toward a greater good for all mankind."
-lincoln.year = year: 2012
+lincoln.year = 2012
 lincoln.save

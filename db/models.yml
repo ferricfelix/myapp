@@ -1,3 +1,10 @@
+Movie
+  title: text
+  year: integer
+  plot: text
+  image_url: text
+
+
 # Example table for a typical Book model.
 #
 # Book
@@ -34,4 +41,3 @@
 # Complete details are in the README file online.
 #
 # Have fun!
-

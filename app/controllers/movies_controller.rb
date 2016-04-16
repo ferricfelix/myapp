@@ -1,7 +1,7 @@
 class MoviesController < ApplicationController
 
   def index
-    @movies = IMDB.all
+    @movies = Movie.all
   end
 
   def show

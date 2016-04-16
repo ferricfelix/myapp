@@ -13,4 +13,11 @@
 
 ActiveRecord::Schema.define(version: 0) do
 
+  create_table "movies", force: :cascade do |t|
+    t.text    "title"
+    t.integer "year"
+    t.text    "plot"
+    t.text    "image_url"
+  end
+
 end
