@@ -4,7 +4,7 @@ gem 'rails', '4.2.6'
 gem 'ez'
 
 #  Windows users might need to un-comment these:
-#  gem 'tzinfo-data', platforms: [:mingw, :mswin]
+ # gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
