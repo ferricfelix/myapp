@@ -1,5 +1,12 @@
 <h1>Movies</h1>
 
+<form action="/movie_details">
+  <label for="search">Search by title:</label>
+  <input id="search" type="text" name="keyword">
+  <input type="submit">
+</form>
+
+
 <% @movies.each do |movie_hash| %>
 
   <div class="movie-box">
