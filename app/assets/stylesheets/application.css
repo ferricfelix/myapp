@@ -35,10 +35,10 @@ a:hover {
 .movie-box {
   float: left;
   width: 240px;
-  height: 500px;
-  border: solid 2px #CCC;
+  height: 400px;
+  /*border: solid 2px #CCC;*/
   padding: 20px;
-  margin: 20px;
+  /*margin: 20px;*/
   text-align: center;
 }
 
@@ -47,4 +47,6 @@ a:hover {
   margin: auto auto;
   display: block;
   box-shadow: 4px 4px 4px #AAA;
+  width: 202px;
+  height: 317px;
 }
