@@ -1,4 +1,4 @@
-<% movie = IMDB.all.first %>
+<% movie = IMDB.find_by(id: 1) %>
 
 <h1 class="title">
   <%= movie[:title] %>
